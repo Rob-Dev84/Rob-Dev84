@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![MasterHead](https://testingtest.altervista.org/gitHubReadme/pixar.gif)](https://Rob-Dev84.io)
 
 <h1 align="center">Hi 👋, I'm Roberto Manna</h1>
-<h3 align="center">A passionate Back-End developer</h3>
+<h3 align="center">Back-End developer</h3>
 <img align="right" alt="Coding" width="400" src="https://testingtest.altervista.org/gitHubReadme/coding.gif">
 
 - 🔭 I’m currently working on [FantasyCalcio](https://github.com/Rob-Dev84/FantasyCalcio)
